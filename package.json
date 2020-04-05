@@ -1,0 +1,28 @@
+{
+  "name": "tailwindcss-tooltip-arrow-after",
+  "version": "1.0.0",
+  "description": "CSS :after tooltip arrow plugin for tailwindcss framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gvital3230/tailwindcss-tooltip-arrow-after.git"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "plugin",
+    "tailwindcss-plugin"
+  ],
+  "author": "Vitalii Goncharov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gvital3230/tailwindcss-tooltip-arrow-after/issues"
+  },
+  "homepage": "https://github.com/gvital3230/tailwindcss-tooltip-arrow-after#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
