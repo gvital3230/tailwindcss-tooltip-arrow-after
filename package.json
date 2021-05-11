@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/gvital3230/tailwindcss-tooltip-arrow-after#readme",
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": ">=4.17.21"
   }
 }
